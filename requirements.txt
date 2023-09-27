@@ -1,0 +1,20 @@
+python==3.11.4
+beautifulsoup4==4.10.0
+selenium==3.141.0
+
+pip install -c conda-forge selenium
+pip install -c conda-forge geckodriver
+pip install -c conda-forge webdriver
+
+
+pip install -c conda-forge gdrive
+pip install -c "conda-forge/label/cf202003" gdrive
+
+
+
+pip install requests
+
+
+
+
+
